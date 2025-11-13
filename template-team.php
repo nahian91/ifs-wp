@@ -61,7 +61,7 @@ get_header();
     <div class="page-team">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <!-- Team Item Start -->
                     <div class="team-item wow fadeInUp">
                         <!-- Team Image Start -->
@@ -74,24 +74,14 @@ get_header();
                         
                         <!-- Team Content Start -->
                         <div class="team-content">
-                            <h3><a href="team-single.html">Sarah Mitchell</a></h3>
+                            <h3>Faisal Mohammed <span>Project Lead</span></h3>
                         </div>
                         <!-- Team Content End -->
-                                                    
-                        <!-- Team Social Icon Start -->
-                        <div class="team-social-icon">
-                            <ul>
-                                <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            </ul>
-                        </div>
-                        <!-- Team Social Icon End -->
                     </div>
                     <!-- Team Item End -->
                 </div>
 
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <!-- Team Item Start -->
                     <div class="team-item wow fadeInUp" data-wow-delay="0.2s">
                         <!-- Team Image Start -->
@@ -104,24 +94,14 @@ get_header();
                         
                         <!-- Team Content Start -->
                         <div class="team-content">
-                            <h3><a href="team-single.html">Brooklyn Simmons</a></h3>
+                            <h3>Abdullah Nahian <span>Front-end & WordPress Developer</span></h3>
                         </div>
                         <!-- Team Content End -->
-                                                    
-                        <!-- Team Social Icon Start -->
-                        <div class="team-social-icon">
-                            <ul>
-                                <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            </ul>
-                        </div>
-                        <!-- Team Social Icon End -->
                     </div>
                     <!-- Team Item End -->
                 </div>
 
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <!-- Team Item Start -->
                     <div class="team-item wow fadeInUp" data-wow-delay="0.4s">
                         <!-- Team Image Start -->
@@ -134,24 +114,14 @@ get_header();
                         
                         <!-- Team Content Start -->
                         <div class="team-content">
-                            <h3><a href="team-single.html">Ralph Edwards</a></h3>
+                            <h3>Jamal Hosen <span>Digital Marketer</span></h3>
                         </div>
                         <!-- Team Content End -->
-                                                    
-                        <!-- Team Social Icon Start -->
-                        <div class="team-social-icon">
-                            <ul>
-                                <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            </ul>
-                        </div>
-                        <!-- Team Social Icon End -->
                     </div>
                     <!-- Team Item End -->
                 </div>
 
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <!-- Team Item Start -->
                     <div class="team-item wow fadeInUp" data-wow-delay="0.6s">
                         <!-- Team Image Start -->
@@ -164,24 +134,14 @@ get_header();
                         
                         <!-- Team Content Start -->
                         <div class="team-content">
-                            <h3><a href="team-single.html">Brian Collins</a></h3>
+                            <h3>Nader Nihal Neep <span>Co-founder and COO</span></h3>
                         </div>
                         <!-- Team Content End -->
-                                                    
-                        <!-- Team Social Icon Start -->
-                        <div class="team-social-icon">
-                            <ul>
-                                <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            </ul>
-                        </div>
-                        <!-- Team Social Icon End -->
                     </div>
                     <!-- Team Item End -->
                 </div>
 
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <!-- Team Item Start -->
                     <div class="team-item wow fadeInUp" data-wow-delay="0.8s">
                         <!-- Team Image Start -->
@@ -194,19 +154,9 @@ get_header();
                         
                         <!-- Team Content Start -->
                         <div class="team-content">
-                            <h3><a href="team-single.html">Emily Carter</a></h3>
+                            <h3>Arnob Das Dipto <span>Co-founder and CMO</span></h3>
                         </div>
                         <!-- Team Content End -->
-                                                    
-                        <!-- Team Social Icon Start -->
-                        <div class="team-social-icon">
-                            <ul>
-                                <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            </ul>--
-                        </div>
-                        <!-- Team Social Icon End -->
                     </div>
                     <!-- Team Item End -->
                 </div>

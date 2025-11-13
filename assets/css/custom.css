@@ -535,11 +535,12 @@ header.main-header .header-sticky.active{
 	text-align: left;
 }
 
-.main-menu ul li:hover > ul{
+.main-menu ul li:hover > ul {
 	visibility: visible;
 	opacity: 1;
 	transform: scale(1,1);
-    padding: 5px 0;
+	padding: 20px 0;
+	margin-top: 15px;
 }
 
 .main-menu ul li.submenu ul li.submenu > a:after{
@@ -569,6 +570,12 @@ header.main-header .header-sticky.active{
     display: none;
 }
 
+.main-menu ul ul li {
+  margin-bottom: 15px;
+}
+.main-menu ul ul li:last-child {
+  margin-bottom: 0;
+}
 .responsive-menu,
 .navbar-toggle{
 	display: none;
@@ -2521,7 +2528,7 @@ header.main-header .header-sticky.active{
 }
 
 .page-cta-btn{
-	margin-top: 40px;
+	margin-top: 25px;
 }
 
 .page-cta-btn a{
@@ -2547,6 +2554,17 @@ header.main-header .header-sticky.active{
 	max-width: 24px;
 }
 
+.service-title-box {
+  text-align: center;
+  margin-bottom: 0;
+}
+.service-title-box h3 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+.service-title-box p {
+  line-height: 28px;
+}
 .testimonial-slider .swiper-wrapper{
 	cursor: none;
 }
@@ -3178,7 +3196,6 @@ header.main-header .header-sticky.active{
 
 .mission-vision-content{
 	position: relative;
-	margin-bottom: 60px;
 	z-index: 1;
 }
 
@@ -3283,7 +3300,7 @@ header.main-header .header-sticky.active{
 	border: 1px solid var(--divider-color);
 	border-radius: 30px;
 	text-align: center;
-	padding: 30px 30px 0;
+	padding: 30px;
 	margin-bottom: 20px;
 }
 
@@ -3298,9 +3315,8 @@ header.main-header .header-sticky.active{
 
 .team-image img{
     width: 100%;
-	max-width: 210px;
-	aspect-ratio: 1 / 1.45;
     object-fit: cover;
+	border-radius: 30px;
 }
 
 .team-content{
@@ -3312,8 +3328,11 @@ header.main-header .header-sticky.active{
     line-height: 1.4em;
 }
 
-.team-content h3 a{
-    color: inherit;
+.team-content h3 span {
+  display: block;
+  font-size: 17px;
+  font-weight: 500;
+  margin-top: 7px;
 }
 
 .team-social-icon ul{
@@ -3381,11 +3400,10 @@ header.main-header .header-sticky.active{
 .promise-cta-box{
 	position: absolute;
 	right: 0;
-	bottom: 40px;
+	bottom: 30px;
 	max-width: 380px;
 	background-color: var(--white-color);
-	padding: 40px;
-	border-radius: 30px;
+	padding: 30px;
 	overflow: hidden;
 	z-index: 1;
 }
@@ -4924,10 +4942,6 @@ header.main-header .header-sticky.active{
 	margin-bottom: 30px;
 }
 
-.page-gallery-box .photo-gallery a{
-	cursor: none;
-}
-
 .page-gallery-box .photo-gallery figure{
 	display: block;
 	border-radius: 30px;
@@ -4935,7 +4949,6 @@ header.main-header .header-sticky.active{
 
 .page-gallery-box .photo-gallery img{
 	width: 100%;
-	aspect-ratio: 1 / 0.829;
 	object-fit: cover;
 	border-radius: 30px;
 }

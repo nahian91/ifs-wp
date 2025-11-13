@@ -14,13 +14,7 @@ get_header();
                 <div class="col-lg-12">
                     <!-- Page Header Box Start -->
                     <div class="page-header-box">
-                        <h1 class="wow fadeInUp" data-cursor="-opaque">Our <span>services</span></h1>                        
-                        <nav class="wow fadeInUp" data-wow-delay="0.2s">
-                            <ol class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="index-2.html">home</a></li>
-                                <li class="breadcrumb-item active" aria-current="page">our services</li>
-                            </ol>
-                        </nav>
+                        <h1 class="wow fadeInUp" data-cursor="-opaque">Our <span>Services</span></h1>    
                     </div>
                     <!-- Page Header Box End -->
                 </div>
@@ -63,205 +57,110 @@ get_header();
     </div>
     <!-- Scrolling Ticker Section End -->
 
-    <!-- Page Services Start -->
-    <div class="page-services">
+    <!-- Our Services Section Start -->
+    <div class="our-services">
         <div class="container">
-            <div class="row services-item-list-box">
-                <div class="col-lg-4 col-md-6">
-                    <!-- Service Item Start -->
-                    <div class="service-item">
-                        <!-- Service Title Box Start -->
-                        <div class="service-title-box">
-                            <h3><a href="service-single.html">Social Media Marketing</a></h3>
-                            <p>Social Media</p>
-                        </div>
-                        <!-- Service Title Box End -->
-
-                        <!-- Service Item Body Start -->
-                        <div class="service-item-body">
-                            <div class="service-content">
-                                <p>Engage your audience and build loyalty with powerful content and campaign across facebook Instagram.</p>
-                            </div>
-                            <div class="service-btn">
-                                <a href="service-single.html" class="btn-default">view details</a>
-                            </div>
-                        </div>
-                        <!-- Service Item Body End -->
-
-                        <!-- Service Image Start -->
-                        <div class="service-image">
-                            <figure>
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/service-circle-img-1.png" alt="">
-                            </figure>
-                        </div>
-                        <!-- Service Image Start -->
+            <div class="row section-row">
+                <div class="col-lg-12">
+                    <!-- Section Title Start -->
+                    <div class="section-title section-title-center">
+                        <h3 class="wow fadeInUp">Our Services</h3>
+                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Complete suite of Digital <span>Marketing Services</span></h2>
                     </div>
-                    <!-- Service Item End -->
+                    <!-- Section Title End -->
                 </div>
+            </div>
 
-                <div class="col-lg-4 col-md-6">
-                    <!-- Service Item Start -->
-                    <div class="service-item active">
-                        <!-- Service Title Box Start -->
-                        <div class="service-title-box">
-                            <h3><a href="service-single.html">Branding & Identity</a></h3>
-                            <p>Branding</p>
-                        </div>
-                        <!-- Service Title Box End -->
-
-                        <!-- Service Item Body Start -->
-                        <div class="service-item-body">
-                            <div class="service-content">
-                                <p>Engage your audience and build loyalty with powerful content and campaign across facebook Instagram.</p>
+            <div class="row">
+                <div class="col-lg-12">
+                    <!-- Service Item List Start -->
+                    <div class="services-item-list-box">
+                        <!-- Service Item Start -->
+                        <div class="service-item">
+                            <!-- Service Title Box Start -->
+                            <div class="service-title-box">
+                                <h3>Web Design </h3>
+                                <p>We set extraordinary standards to create innovative and alluring designs for any type of platform you are seeking. We create layouts to make your pages easy to use. </p>
                             </div>
-                            <div class="service-btn">
-                                <a href="service-single.html" class="btn-default">view details</a>
-                            </div>
+                            <!-- Service Title Box End -->
                         </div>
-                        <!-- Service Item Body End -->
+                        <!-- Service Item End -->
 
-                        <!-- Service Image Start -->
-                        <div class="service-image">
-                            <figure>
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/service-circle-img-2.png" alt="">
-                            </figure>
+                        <!-- Service Item Start -->
+                        <div class="service-item active">
+                            <!-- Service Title Box Start -->
+                            <div class="service-title-box">
+                                <h3>Web Development </h3>
+                                <p>We architect the best system that fits your plans whether it be to create a satisfying experience of comfort and convenience or an intricate platform for a wide variety of work. </p>
+                            </div>
+                            <!-- Service Title Box End -->
                         </div>
-                        <!-- Service Image Start -->
+                        <!-- Service Item End -->
+
+                        <!-- Service Item Start -->
+                        <div class="service-item">
+                            <!-- Service Title Box Start -->
+                            <div class="service-title-box">
+                                <h3>Responsive Design </h3>
+                                <p>Along with design and development your website will come with responsive features for how you can access with any device without any wasted steps.</p>
+                            </div>
+                            <!-- Service Title Box End -->
+                        </div>
+                        <!-- Service Item End -->
+
+                        <!-- Service Item Start -->
+                        <div class="service-item">
+                            <!-- Service Title Box Start -->
+                            <div class="service-title-box">
+                                <h3>Graphic Design </h3>
+                                <p>Visual representation is a core aspect to making your mark. Our graphic designers create unique and striking designs that will allow you to set yourself aside from the rest.</p>
+                            </div>
+                            <!-- Service Title Box End -->
+                        </div>
+                        <!-- Service Item End -->
+
+                        <!-- Service Item Start -->
+                        <div class="service-item">
+                            <!-- Service Title Box Start -->
+                            <div class="service-title-box">
+                                <h3>Digital Marketing </h3>
+                                <p>We craft digital marketing strategies tailored to your brand and audience. From content creation to social media management and paid ads.</p>
+                            </div>
+                            <!-- Service Title Box End -->
+                        </div>
+                        <!-- Service Item End -->
+
+                        <!-- Service Item Start -->
+                        <div class="service-item">
+                            <!-- Service Title Box Start -->
+                            <div class="service-title-box">
+                                <h3>SEO Services</h3>
+                                <p>Our SEO services focus on getting your website to the top of search results. We perform in-depth keyword research, on-page optimization. </p>
+                            </div>
+                            <!-- Service Title Box End -->
+                        </div>
+                        <!-- Service Item End -->
                     </div>
-                    <!-- Service Item End -->
-                </div>
+                    <!-- Service Item List End -->
 
-                <div class="col-lg-4 col-md-6">
-                    <!-- Service Item Start -->
-                    <div class="service-item">
-                        <!-- Service Title Box Start -->
-                        <div class="service-title-box">
-                            <h3><a href="service-single.html">SEO & Content Marketing</a></h3>
-                            <p>Content Marketing</p>
-                        </div>
-                        <!-- Service Title Box End -->
-
-                        <!-- Service Item Body Start -->
-                        <div class="service-item-body">
-                            <div class="service-content">
-                                <p>Engage your audience and build loyalty with powerful content and campaign across facebook Instagram.</p>
-                            </div>
-                            <div class="service-btn">
-                                <a href="service-single.html" class="btn-default">view details</a>
-                            </div>
-                        </div>
-                        <!-- Service Item Body End -->
-
-                        <!-- Service Image Start -->
-                        <div class="service-image">
-                            <figure>
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/service-circle-img-3.png" alt="">
-                            </figure>
-                        </div>
-                        <!-- Service Image Start -->
+                    <!-- Service List Start -->
+                    <div class="service-list wow fadeInUp" data-wow-delay="0.4s">
+                        <ul>
+                            <li>Paid Advertising</li>
+                            <li>Content Strategy</li>
+                            <li>CRM Marketing</li>
+                            <li>Website Design</li>
+                            <li>E-commerce Marketing </li>
+                            <li>Branding</li>
+                            <li>Web Development</li>
+                        </ul>
                     </div>
-                    <!-- Service Item End -->
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <!-- Service Item Start -->
-                    <div class="service-item">
-                        <!-- Service Title Box Start -->
-                        <div class="service-title-box">
-                            <h3><a href="service-single.html">Search Engine Optimization</a></h3>
-                            <p>SEO</p>
-                        </div>
-                        <!-- Service Title Box End -->
-
-                        <!-- Service Item Body Start -->
-                        <div class="service-item-body">
-                            <div class="service-content">
-                                <p>Engage your audience and build loyalty with powerful content and campaign across facebook Instagram.</p>
-                            </div>
-                            <div class="service-btn">
-                                <a href="service-single.html" class="btn-default">view details</a>
-                            </div>
-                        </div>
-                        <!-- Service Item Body End -->
-
-                        <!-- Service Image Start -->
-                        <div class="service-image">
-                            <figure>
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/service-circle-img-4.png" alt="">
-                            </figure>
-                        </div>
-                        <!-- Service Image Start -->
-                    </div>
-                    <!-- Service Item End -->
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <!-- Service Item Start -->
-                    <div class="service-item">
-                        <!-- Service Title Box Start -->
-                        <div class="service-title-box">
-                            <h3><a href="service-single.html">SEO Strategy & Execution</a></h3>
-                            <p>SEO Strategy</p>
-                        </div>
-                        <!-- Service Title Box End -->
-
-                        <!-- Service Item Body Start -->
-                        <div class="service-item-body">
-                            <div class="service-content">
-                                <p>Engage your audience and build loyalty with powerful content and campaign across facebook Instagram.</p>
-                            </div>
-                            <div class="service-btn">
-                                <a href="service-single.html" class="btn-default">view details</a>
-                            </div>
-                        </div>
-                        <!-- Service Item Body End -->
-
-                        <!-- Service Image Start -->
-                        <div class="service-image">
-                            <figure>
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/service-circle-img-5.png" alt="">
-                            </figure>
-                        </div>
-                        <!-- Service Image Start -->
-                    </div>
-                    <!-- Service Item End -->
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <!-- Service Item Start -->
-                    <div class="service-item">
-                        <!-- Service Title Box Start -->
-                        <div class="service-title-box">
-                            <h3><a href="service-single.html">Organic Search Growth</a></h3>
-                            <p>Organic Search</p>
-                        </div>
-                        <!-- Service Title Box End -->
-
-                        <!-- Service Item Body Start -->
-                        <div class="service-item-body">
-                            <div class="service-content">
-                                <p>Engage your audience and build loyalty with powerful content and campaign across facebook Instagram.</p>
-                            </div>
-                            <div class="service-btn">
-                                <a href="service-single.html" class="btn-default">view details</a>
-                            </div>
-                        </div>
-                        <!-- Service Item Body End -->
-
-                        <!-- Service Image Start -->
-                        <div class="service-image">
-                            <figure>
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/service-circle-img-6.png" alt="">
-                            </figure>
-                        </div>
-                        <!-- Service Image Start -->
-                    </div>
-                    <!-- Service Item End -->
+                    <!-- Service List End -->
                 </div>
             </div>
         </div>
     </div>
-    <!-- Page Services End -->
+    <!-- Our Services Section End -->
 
     <!-- Why Choose Us Section Start -->
     <div class="why-choose-us">
@@ -411,321 +310,5 @@ get_header();
     </div>
     <!-- How It Work Section End -->
 
-    <!-- Our Facts Section Start -->
-    <div class="our-facts">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- Fact Item Start -->
-                    <div class="fact-box-1">
-                        <!-- Fact Content Start -->
-                        <div class="fact-content">
-                            <!-- Section Title Start -->
-                            <div class="section-title">
-                                <h3 class="wow fadeInUp">Our Facts</h3>
-                                <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Our impact in numbers and <span>real results</span></h2>
-                                <p class="wow fadeInUp" data-wow-delay="0.4s">From skyrocketing website traffic to boosting conversion numbers tell a story of consistent success we don't just deliver strategies.</p>
-                            </div>
-                            <!-- Section Title End -->
-
-                            <!-- Fact Button Start -->
-                            <div class="fact-btn wow fadeInUp" data-wow-delay="0.6s">
-                                <a href="contact.html" class="btn-default">Let's Talk Together</a>
-                            </div>
-                            <!-- Fact Button End -->
-                        </div>
-                        <!-- Fact Content End -->
-
-                        <!-- Fact Image Box Start -->
-                        <div class="fact-image-box">
-                            <!-- Fact Image Start -->
-                            <div class="fact-image">
-                                <figure>
-                                    <img src="<?php echo get_template_directory_uri();?>/assets/images/fact-image-1.png" alt="">
-                                </figure>
-                            </div>
-                            <!-- Fact Image End -->
-
-                            <!-- Get Started Circle Start -->
-                            <div class="get-started-circle">
-                                <a href="contact.html">
-                                    <img src="<?php echo get_template_directory_uri();?>/assets/images/get-started-circle-2.svg" alt="">
-                                </a>
-                            </div>
-                            <!-- Get Started Circle End -->
-                        </div>
-                        <!-- Fact Image Box End -->                        
-                    </div>
-                    <!-- Fact Item End -->
-                </div>
-
-                <div class="col-lg-6">
-                    <!-- Fact Item Start -->
-                    <div class="fact-box-2 wow fadeInUp" data-wow-delay="0.2s">
-                        <figure>
-                            <img src="<?php echo get_template_directory_uri();?>/assets/images/fact-image-2.png" alt="">
-                        </figure>
-                    </div>
-                    <!-- Fact Item End -->
-                </div>
-
-                <div class="col-lg-6">
-                    <!-- Fact Item List Start -->
-                    <div class="fact-item-list">
-                        <!-- Fact Item Start -->
-                        <div class="fact-item fact-dark-box">
-                            <!-- Fact Item Header Start -->
-                            <div class="fact-item-header">
-                                <div class="icon-box">
-                                    <img src="<?php echo get_template_directory_uri();?>/assets/images/icon-fact-1.svg" alt="">
-                                </div>
-
-                                <div class="review-images">
-                                    <div class="review-image">
-                                        <figure class="image-anime">
-                                            <img src="<?php echo get_template_directory_uri();?>/assets/images/author-1.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="review-image">
-                                        <figure class="image-anime">
-                                            <img src="<?php echo get_template_directory_uri();?>/assets/images/author-2.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="review-image">
-                                        <figure class="image-anime">
-                                            <img src="<?php echo get_template_directory_uri();?>/assets/images/author-3.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Fact Item Header End -->
-
-                            <!-- Fact Item Content Start -->
-                            <div class="fact-item-content">
-                                <h2><span class="counter">500</span>%</h2>
-                                <p>Boost in Website Traffic for Top Clients</p>
-                            </div>
-                            <!-- Fact Item Content End -->
-                        </div>
-                        <!-- Fact Item End -->
-
-                        <!-- Fact Item Start -->
-                        <div class="fact-item">
-                            <div class="fact-item-content">
-                                <h2><span class="counter">24</span>/7</h2>
-                                <p>Campaign Monitoring for Optimal Performance</p>
-                            </div>
-                            <div class="fact-item-tags">
-                                <ul>
-                                    <li>Support</li>
-                                    <li>help</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <!-- Fact Item End -->
-                    </div>
-                    <!-- Fact Item List End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Our Facts Section End -->
-
-    <!-- Our Testimonials Section Start -->
-    <div class="our-testimonials service-our-testimonials">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-md-6">
-                    <!-- Testimonials Content Start -->
-                    <div class="testimonials-content-box">
-                        <!-- Section Title Start -->
-                        <div class="section-title">
-                            <h3 class="wow fadeInUp">Testimonials</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">What our happy clients say about <span>working with us</span></h2>
-                        </div>
-                        <!-- Section Title End -->
-
-                        <!-- Testimonial Button Start -->
-                        <div class="testimonial-btn wow fadeInUp" data-wow-delay="0.4s">
-                            <a href="testimonials.html" class="btn-default">View all Review</a>
-                        </div>
-                        <!-- Testimonial Button End -->
-                    </div>
-                    <!-- Testimonials Content End -->
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <!-- Page CTA Box Start -->
-                    <div class="page-cta-box testimonial-cta-box">
-                        <!-- Page CTA Header Start -->
-                        <div class="page-cta-header">
-                            <div class="review-images">
-                                <div class="review-image">
-                                    <figure class="image-anime">
-                                        <img src="<?php echo get_template_directory_uri();?>/assets/images/author-1.jpg" alt="">
-                                    </figure>
-                                </div>
-                                <div class="review-image">
-                                    <figure class="image-anime">
-                                        <img src="<?php echo get_template_directory_uri();?>/assets/images/author-2.jpg" alt="">
-                                    </figure>
-                                </div>
-                                <div class="review-image">
-                                    <figure class="image-anime">
-                                        <img src="<?php echo get_template_directory_uri();?>/assets/images/author-3.jpg" alt="">
-                                    </figure>
-                                </div>
-                            </div>
-                            <div class="review-rating-content">
-                                <p><span>2.5k</span> Positive Review in our solutions </p>
-                            </div>
-                        </div>
-                        <!-- Page CTA Header End -->
-
-                        <!-- Page CTA Box Body Start -->
-                        <div class="page-cta-box-body">
-                            <div class="page-cta-counters">
-                                <div class="page-cta-counter-item">
-                                    <h2><span class="counter">95</span></h2>
-                                    <p>Client Satisfaction</p>
-                                </div>
-                                <div class="page-cta-counter-item">
-                                    <h2><span class="counter">1</span>K+</h2>
-                                    <p>Project complete</p>
-                                </div>
-                            </div>    
-                            <div class="page-cta-btn">
-                                <a href="tel:+123456789"><img src="<?php echo get_template_directory_uri();?>/assets/images/icon-phone-white.svg" alt=""> +(123) 456 789</a>
-                            </div>
-                        </div>
-                        <!-- Page CTA Box Body End -->
-                    </div>
-                    <!-- Page CTA Box End -->
-                </div>
-
-                <div class="col-lg-12">
-                    <!-- Testimonial Slider Start -->
-                    <div class="testimonial-slider">
-                        <div class="swiper">
-                            <div class="swiper-wrapper" data-cursor-text="Drag">
-                                <!-- Testimonial Slide Start -->
-                                <div class="swiper-slide">
-                                    <div class="testimonial-item">
-                                        <div class="testimonials-rating">
-                                            <i class="fa-solid fa-star"></i>
-                                            <i class="fa-solid fa-star"></i>
-                                            <i class="fa-solid fa-star"></i>
-                                            <i class="fa-solid fa-star"></i>
-                                            <i class="fa-solid fa-star"></i>
-                                        </div>
-                                        <div class="testimonial-content">
-                                            <p>“ Outstanding team! We saw a 4x increase in leads within three months. Their SEO and paid ads strategy brought in qualified traffic like never before highly recommend!”</p>
-                                        </div>                                        
-                                        <div class="testimonial-author">
-                                            <div class="author-content">
-                                                <h3>Brooklyn Simmons</h3>
-                                                <p>co.Founder</p>
-                                            </div>
-                                            <div class="testimonial-quate">
-                                                <img src="<?php echo get_template_directory_uri();?>/assets/images/testimonial-quate.svg" alt="">
-                                            </div>            
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- Testimonial Slide End -->
-
-                                <!-- Testimonial Slide Start -->
-                                <div class="swiper-slide">
-                                    <div class="swiper-slide">
-                                        <div class="testimonial-item">
-                                            <div class="testimonials-rating">
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                            </div>
-                                            <div class="testimonial-content">
-                                                <p>“ Outstanding team! We saw a 4x increase in leads within three months. Their SEO and paid ads strategy brought in qualified traffic like never before highly recommend!”</p>
-                                            </div>                                        
-                                            <div class="testimonial-author">
-                                                <div class="author-content">
-                                                    <h3>isabella clarke</h3>
-                                                    <p>chief technology officer</p>
-                                                </div>
-                                                <div class="testimonial-quate">
-                                                    <img src="<?php echo get_template_directory_uri();?>/assets/images/testimonial-quate.svg" alt="">
-                                                </div>            
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- Testimonial Slide End -->
-
-                                <!-- Testimonial Slide Start -->
-                                <div class="swiper-slide">
-                                    <div class="swiper-slide">
-                                        <div class="testimonial-item">
-                                            <div class="testimonials-rating">
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                            </div>
-                                            <div class="testimonial-content">
-                                                <p>“ Outstanding team! We saw a 4x increase in leads within three months. Their SEO and paid ads strategy brought in qualified traffic like never before highly recommend!”</p>
-                                            </div>                                        
-                                            <div class="testimonial-author">
-                                                <div class="author-content">
-                                                    <h3>alexander bennett</h3>
-                                                    <p>senior brand strategist</p>
-                                                </div>
-                                                <div class="testimonial-quate">
-                                                    <img src="<?php echo get_template_directory_uri();?>/assets/images/testimonial-quate.svg" alt="">
-                                                </div>            
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- Testimonial Slide End -->
-                                    
-                                <!-- Testimonial Slide Start -->
-                                <div class="swiper-slide">
-                                    <div class="swiper-slide">
-                                        <div class="testimonial-item">
-                                            <div class="testimonials-rating">
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                            </div>
-                                            <div class="testimonial-content">
-                                                <p>“ Outstanding team! We saw a 4x increase in leads within three months. Their SEO and paid ads strategy brought in qualified traffic like never before highly recommend!”</p>
-                                            </div>                                        
-                                            <div class="testimonial-author">
-                                                <div class="author-content">
-                                                    <h3>christopher N.</h3>
-                                                    <p>senior manager</p>
-                                                </div>
-                                                <div class="testimonial-quate">
-                                                    <img src="<?php echo get_template_directory_uri();?>/assets/images/testimonial-quate.svg" alt="">
-                                                </div>            
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- Testimonial Slide End -->
-                            </div>
-                            <div class="testimonial-pagination"></div>
-                        </div>
-                    </div>
-                    <!-- Testimonial Slider End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Our Testimonials Section End -->
 
    <?php get_footer();?>

@@ -14,13 +14,7 @@ get_header();
                 <div class="col-lg-12">
                     <!-- Page Header Box Start -->
                     <div class="page-header-box">
-                        <h1 class="wow fadeInUp" data-cursor="-opaque">About <span>us</span></h1>                        
-                        <nav class="wow fadeInUp" data-wow-delay="0.2s">
-                            <ol class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="index-2.html">home</a></li>
-                                <li class="breadcrumb-item active" aria-current="page">About us</li>
-                            </ol>
-                        </nav>
+                        <h1 class="wow fadeInUp" data-cursor="-opaque">About <span>Us</span></h1>        
                     </div>
                     <!-- Page Header Box End -->
                 </div>
@@ -63,110 +57,15 @@ get_header();
     </div>
     <!-- Scrolling Ticker Section End -->
 
-    <!-- About Us Section Start -->
-    <div class="about-us">
-        <div class="container">
-            <div class="row section-row">
-                <div class="col-lg-12">
-                    <!-- About Title Box Start -->
-                    <div class="about-title-box">
-                        <!-- Section Title Start -->
-                        <div class="section-title">
-                            <h3 class="wow fadeInUp">About us</h3>
-                            <h2 class="wow fadeInUp" data-cursor="-opaque" data-wow-delay="0.2s">Empowering businesses with result-driven digital marketing <span class="about-title-img-1"><img src="<?php echo get_template_directory_uri();?>/assets/images/about-title-img-1.jpg" alt=""></span> solutions blending <span class="about-title-img-2"><img src="<?php echo get_template_directory_uri();?>/assets/images/about-title-img-2.jpg" alt=""></span> creativity, strategy data to maximize online visibility and growth.</h2>
-                        </div>
-                        <!-- Section Title End -->
-
-                        <!-- About Us Button Start -->
-                        <div class="about-us-btn wow fadeInUp" data-wow-delay="0.4s">
-                            <a href="about.html" class="btn-default">more about us</a>
-                        </div>
-                        <!-- About Us Button End -->
-                    </div>
-                    <!-- About Title Box End -->
-                </div>
-            </div>
-        
-            <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <!-- About Box 1 Start -->
-                    <div class="about-us-item about-box-1">
-                        <div class="about-item-content">
-                            <h3>Empowering Businesses with Strategic Digital Marketing</h3>
-                        </div>
-                        <div class="about-us-img-1">
-                            <figure>
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/about-us-image-1.png" alt="">
-                            </figure>
-                        </div>
-                    </div>
-                    <!-- About Box 1 End -->
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <!-- About Box 2 Start -->
-                    <div class="about-us-item about-box-2">
-                        <div class="about-counter-item">
-                            <div class="icon-box">
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/icon-about-counter-1.svg" alt="">
-                            </div>
-                            <div class="about-counter-content">
-                                <h2><span class="counter">95</span>%</h2>
-                                <p>Client Retention Rate</p>
-                            </div>
-                        </div>
-                        <div class="about-us-img-2">
-                            <figure>
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/about-us-image-2.png" alt="">
-                            </figure>
-                        </div>
-                    </div>
-                    <!-- About Box 2 End -->
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <!-- About Box 3 Start -->
-                    <div class="about-us-item about-box-3">
-                        <div class="about-counter-item">
-                            <div class="icon-box">
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/icon-about-counter-2.svg" alt="">
-                            </div>
-                            <div class="about-counter-content">
-                                <div class="about-counter-header">
-                                    <h2><span class="counter">4.9</span>/5</h2>
-                                    <p><i class="fa fa-solid fa-star"></i>
-                                        <i class="fa fa-solid fa-star"></i>
-                                        <i class="fa fa-solid fa-star"></i>
-                                        <i class="fa fa-solid fa-star"></i>
-                                        <i class="fa fa-solid fa-star"></i>
-                                    </p>
-                                </div>
-                                <p>Client Retention Rate</p>
-                            </div>
-                        </div>
-                        <div class="about-us-img-3">
-                            <figure>
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/about-us-image-3.png" alt="">
-                            </figure>
-                        </div>
-                    </div>
-                    <!-- About Box 3 End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- About Us Section End -->
-
-    <!-- Our Approach Section Start -->
-    <div class="our-approach">
+   <div class="our-approach">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <!-- Approach Image Start -->
-                    <div class="approach-image wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="approach-image wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                         <div class="approach-img">
                             <figure class="image-anime">
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/approach-image.jpg" alt="">
+                                <img src="https://localhost/ifs-wp/wp-content/themes/ifs-wp/assets/images/approach-image.jpg" alt="">
                             </figure>
                         </div>
                         <!-- Approach Image List Start -->
@@ -186,34 +85,22 @@ get_header();
                     <div class="approach-content">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <h3 class="wow fadeInUp">our approach</h3>
-                            <h2 class="wow fadeInUp" data-cursor="-opaque" data-wow-delay="0.2s">EStrategic steps to grow <span>digital presence</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">We combine data-driven strategies, creative innovation, and proven expertise to help your brand grow online from SEO to social media.</p>
+                            <h3 class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">about us</h3>
+                            <h2 class="wow fadeInUp" data-cursor="-opaque" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;"><span>Infinity Digital Agency</span> is where creativity meets technology.</h2> 
+                            <p class="wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">At Infinity Digital Agency, we believe the digital world is full of opportunities waiting to be unlocked. Since day one, our mission has been simple: help businesses grow online with smart, creative, and results-driven strategies.</p>
                         </div>
                         <!-- Section Title End -->
 
-                        <!-- Approach Button Start -->
-                        <div class="approach-btn wow fadeInUp" data-wow-delay="0.6s">
-                            <a href="contact.html" class="btn-default">View details</a>
-                        </div>
-                        <!-- Approach Button End -->
-
                         <!-- Mission Vision List Start -->
-                        <div class="mission-vision-list wow fadeInUp" data-wow-delay="0.8s">
+                        <div class="mission-vision-list wow fadeInUp" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
                             <!-- Mission Vision Item Start -->
                             <div class="mission-vision-item">
                                 <!-- Mission Vision Content Start -->
                                 <div class="mission-vision-content">
                                     <h3>Our mission</h3>
-                                    <p>We combine data-driven of th strategies, creative proven expertise.</p>
+                                    <p>We help businesses grow with innovative strategies. Our execution delivers measurable results.</p>
                                 </div>
                                 <!-- Mission Vision Content End -->
-
-                                <!-- Mission Vision Button Start -->
-                                <div class="mission-vision-btn">
-                                    <a href="contact.html" class="readmore-btn">read more</a>
-                                </div>
-                                <!-- Mission Vision Button End -->
                             </div>
                             <!-- Mission Vision Item End -->
 
@@ -222,15 +109,31 @@ get_header();
                                 <!-- Mission Vision Content Start -->
                                 <div class="mission-vision-content">
                                     <h3>Our vision</h3>
-                                    <p>We combine data-driven of th strategies, creative proven expertise.</p>
+                                    <p>Trusted digital partner delivering world-class services. Helping businesses scale and stand out.</p>
                                 </div>
                                 <!-- Mission Vision Content End -->
+                            </div>
+                            <!-- Mission Vision Item End -->
 
-                                <!-- Mission Vision Button Start -->
-                                <div class="mission-vision-btn">
-                                    <a href="contact.html" class="readmore-btn">read more</a>
+                            <!-- Mission Vision Item Start -->
+                            <div class="mission-vision-item">
+                                <!-- Mission Vision Content Start -->
+                                <div class="mission-vision-content">
+                                    <h3>Our objective</h3>
+                                    <p>Delivering extraordinary solutions for peak performance. Ensuring success for every project.</p>
                                 </div>
-                                <!-- Mission Vision Button End -->
+                                <!-- Mission Vision Content End -->
+                            </div>
+                            <!-- Mission Vision Item End -->
+
+                            <!-- Mission Vision Item Start -->
+                            <div class="mission-vision-item">
+                                <!-- Mission Vision Content Start -->
+                                <div class="mission-vision-content">
+                                    <h3>Our Core Values</h3>
+                                    <p>Integrity. Innovation. Client-first service. Trust and creativity at every step.</p>
+                                </div>
+                                <!-- Mission Vision Content End -->
                             </div>
                             <!-- Mission Vision Item End -->
                         </div>
@@ -241,85 +144,6 @@ get_header();
             </div>
         </div>
     </div>
-    <!-- Our Approach Section End -->
-
-    <!-- Digital Advantage Section Start -->
-    <div class="digital-advantage">
-        <div class="container">
-            <div class="row section-row">
-                <div class="col-lg-12">
-                    <!-- Section Title Start -->
-                    <div class="section-title section-title-center">
-                        <h3 class="wow fadeInUp">Digital Advantage</h3>
-                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Delivering digital excellence <span>growth results</span></h2>
-                    </div>
-                    <!-- Section Title End -->
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <!-- Digital Advantage Item Start -->
-                    <div class="digital-advantage-item wow fadeInUp">
-                        <div class="icon-box">
-                            <img src="<?php echo get_template_directory_uri();?>/assets/images/icon-digital-advantage-1.svg" alt="">
-                        </div>
-                        <div class="digital-advantage-content">
-                            <h3>Result-Oriented Marketing</h3>
-                            <p>We focus on delivering measurable outcom that align with your business goal.</p>
-                        </div>
-                        <div class="digital-advantage-img">
-                            <img src="<?php echo get_template_directory_uri();?>/assets/images/digital-advantage-img-1.jpg" alt="">
-                        </div>
-                    </div>
-                    <!-- Digital Advantage Item End -->
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <!-- Digital Advantage Item Start -->
-                    <div class="digital-advantage-item wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="icon-box">
-                            <img src="<?php echo get_template_directory_uri();?>/assets/images/icon-digital-advantage-2.svg" alt="">
-                        </div>
-                        <div class="digital-advantage-content">
-                            <h3>Result-Oriented Marketing</h3>
-                            <p>We focus on delivering measurable outcom that align with your business goal.</p>
-                        </div>
-                        <div class="digital-advantage-img">
-                            <img src="<?php echo get_template_directory_uri();?>/assets/images/digital-advantage-img-2.jpg" alt="">
-                        </div>
-                    </div>
-                    <!-- Digital Advantage Item End -->
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <!-- Digital Advantage Item Start -->
-                    <div class="digital-advantage-item wow fadeInUp" data-wow-delay="0.4s">
-                        <div class="icon-box">
-                            <img src="<?php echo get_template_directory_uri();?>/assets/images/icon-digital-advantage-3.svg" alt="">
-                        </div>
-                        <div class="digital-advantage-content">
-                            <h3>Result-Oriented Marketing</h3>
-                            <p>We focus on delivering measurable outcom that align with your business goal.</p>
-                        </div>
-                        <div class="digital-advantage-img">
-                            <img src="<?php echo get_template_directory_uri();?>/assets/images/digital-advantage-img-3.jpg" alt="">
-                        </div>
-                    </div>
-                    <!-- Digital Advantage Item End -->
-                </div>
-
-                <div class="col-lg-12">
-                    <!-- Section Footer Text Start -->
-                    <div class="section-footer-text wow fadeInUp" data-wow-delay="0.6s">
-                        <p>Start your project with us today. <a href="contact.html">Request a Free Quote</a></p>
-                    </div>
-                    <!-- Section Footer Text End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Digital Advantage Section End -->
 
     <!-- How It Work Section Start -->
     <div class="how-it-work">
@@ -466,399 +290,44 @@ get_header();
     </div>
     <!-- Ready To Talk Section End -->
 
-    <!-- Our Team Section Start -->
-    <div class="our-team">
-        <div class="container">
-            <div class="row section-row">
-                <div class="col-lg-12">
-                    <!-- Section Title Start -->
-                    <div class="section-title section-title-center">
-                        <h3 class="wow fadeInUp">our team</h3>
-                        <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Meet the experts behind <span>your success</span></h2>
-                    </div>
-                    <!-- Section Title End -->
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Item Start -->
-                    <div class="team-item wow fadeInUp">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <figure>
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/team-1.png" alt="">
-                            </figure>
-                        </div>	
-                        <!-- Team Image End -->
-                        
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3><a href="team-single.html">Sarah Mitchell</a></h3>
-                        </div>
-                        <!-- Team Content End -->
-                                                    
-                        <!-- Team Social Icon Start -->
-                        <div class="team-social-icon">
-                            <ul>
-                                <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            </ul>
-                        </div>
-                        <!-- Team Social Icon End -->
-                    </div>
-                    <!-- Team Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Item Start -->
-                    <div class="team-item wow fadeInUp" data-wow-delay="0.2s">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <figure>
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/team-2.png" alt="">
-                            </figure>
-                        </div>	
-                        <!-- Team Image End -->
-                        
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3><a href="team-single.html">Brooklyn Simmons</a></h3>
-                        </div>
-                        <!-- Team Content End -->
-                                                    
-                        <!-- Team Social Icon Start -->
-                        <div class="team-social-icon">
-                            <ul>
-                                <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            </ul>
-                        </div>
-                        <!-- Team Social Icon End -->
-                    </div>
-                    <!-- Team Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Item Start -->
-                    <div class="team-item wow fadeInUp" data-wow-delay="0.4s">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <figure>
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/team-3.png" alt="">
-                            </figure>
-                        </div>	
-                        <!-- Team Image End -->
-                        
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3><a href="team-single.html">Ralph Edwards</a></h3>
-                        </div>
-                        <!-- Team Content End -->
-                                                    
-                        <!-- Team Social Icon Start -->
-                        <div class="team-social-icon">
-                            <ul>
-                                <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            </ul>
-                        </div>
-                        <!-- Team Social Icon End -->
-                    </div>
-                    <!-- Team Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Item Start -->
-                    <div class="team-item wow fadeInUp" data-wow-delay="0.6s">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <figure>
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/team-4.png" alt="">
-                            </figure>
-                        </div>	
-                        <!-- Team Image End -->
-                        
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3><a href="team-single.html">Brian Collins</a></h3>
-                        </div>
-                        <!-- Team Content End -->
-                                                    
-                        <!-- Team Social Icon Start -->
-                        <div class="team-social-icon">
-                            <ul>
-                                <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            </ul>
-                        </div>
-                        <!-- Team Social Icon End -->
-                    </div>
-                    <!-- Team Item End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Our Team Section End -->
-
-    <!-- Our Promise Section Start -->
-    <div class="our-promise">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <!-- Promise Image Start -->
-                    <div class="promise-image">
-                        <div class="promise-img">
-                            <figure class="image-anime reveal">
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/promise-image.jpg" alt="">
-                            </figure>
-                        </div>
-                        <div class="promise-cta-box">
-                            <div class="promise-cta-content">
-                                <h3>Trusted by <span class="counter">2</span>M+ customer</h3>
-                                <p>We focus on strategies that deliver measurable outcome.</p>
-                            </div>
-
-                            <!-- Hero Rating Item Start -->
-                            <div class="hero-review-box">
-                                <!-- Review Images Start -->
-                                <div class="review-images">
-                                    <div class="review-image">
-                                        <figure class="image-anime">
-                                            <img src="<?php echo get_template_directory_uri();?>/assets/images/author-1.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="review-image">
-                                        <figure class="image-anime">
-                                            <img src="<?php echo get_template_directory_uri();?>/assets/images/author-2.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="review-image">
-                                        <figure class="image-anime">
-                                            <img src="<?php echo get_template_directory_uri();?>/assets/images/author-3.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                </div>
-                                <!-- Review Images End -->
-
-                                <!-- Review Content Start -->
-                                <div class="review-content">
-                                    <div class="review-rating-star">
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star"></i>
-                                    </div>
-                                    <div class="review-rating-content">
-                                        <p><span class="counter">4.5</span> Customer review</p>
-                                    </div>
-                                </div>
-                                <!-- Review Content End -->
-                            </div>
-                            <!-- Hero Rating Item End -->
-                        </div>
-                    </div>
-                    <!-- Promise Image End -->
-                </div>
-
-                <div class="col-lg-6">
-                    <!-- Promise Content Start -->
-                    <div class="promise-content">
-                        <!-- Section Title Start -->
-                        <div class="section-title section-title-center">
-                            <h3 class="wow fadeInUp">Our Promise</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Delivering value through <span>digital excellence</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">We combine data-driven strategies, creative innovation, and proven expertise to help your brand grow online from SEO to social media.</p>
-                        </div>
-                        <!-- Section Title End -->
-
-                        <!-- Promise Body Start -->
-                        <div class="promise-body">
-                            <div class="promise-body-list wow fadeInUp" data-wow-delay="0.6s">
-                                <ul>
-                                    <li>Social media growth that convet</li>
-                                    <li>DataDriven Strate Maximum ROI</li>
-                                    <li>Performance Track With Insights</li>
-                                    <li>SEO Solution of Improve Visibile</li>
-                                </ul>
-                            </div>
-
-                            <div class="promise-body-btn wow fadeInUp" data-wow-delay="0.8s">
-                                <a href="contact.html" class="btn-default">Let's Grow Together</a>
-                            </div>
-                        </div>
-                        <!-- Promise Body End -->
-
-                        <!-- Promise Counter List Start -->
-                        <div class="promise-counter-list">
-                            <!-- Promise Counter Item Start -->
-                            <div class="promise-counter-item">
-                                <h2><span class="counter">24</span>K+</h2>
-                                <p>Expert guidance</p>
-                            </div>
-                            <!-- Promise Counter Item End -->
-
-                            <!-- Promise Counter Item Start -->
-                            <div class="promise-counter-item">
-                                <h2><span class="counter">16</span>M</h2>
-                                <p>Expert guidance</p>
-                            </div>
-                            <!-- Promise Counter Item End -->
-
-                            <!-- Promise Counter Item Start -->
-                            <div class="promise-counter-item">
-                                <h2><span class="counter">160</span>K</h2>
-                                <p>Expert guidance</p>
-                            </div>
-                            <!-- Promise Counter Item End -->
-                        </div>
-                        <!-- Promise Counter List End -->
-                    </div>
-                    <!-- Promise Content End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Our Promise Section End -->
-
-    <!-- Our Belief Section Start -->
-    <div class="our-belief">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <!-- Our Belief Content Start -->
-                    <div class="our-belief-content">
-                        <!-- Section Title Start -->
-                        <div class="section-title section-title-center">
-                            <h3 class="wow fadeInUp">Our Belief</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Building brands purpose <span>with passion</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">We combine data-driven strategies, creative innovation, and proven expertise to help your brand grow online from SEO to social media.</p>
-                        </div>
-                        <!-- Section Title End -->
-
-                        <!-- Our Belief Body Start -->
-                        <div class="our-belief-body wow fadeInUp" data-wow-delay="0.6s">
-                            <ul>
-                                <li>We craft brand experiences that connect emotionally, inspire action.</li>
-                                <li>Our strategies are root  in purpose ensuring every digital move support.</li>
-                            </ul>
-                        </div>
-                        <!-- Our Belief Body End -->
-
-                        <!-- Our Belief Button Start -->
-                        <div class="our-belief-btn wow fadeInUp" data-wow-delay="0.8s">
-                            <a href="contact.html" class="btn-default">learn more</a>
-                        </div>
-                        <!-- Our Belief Button End -->
-                    </div>
-                    <!-- Our Belief Content Ens -->
-                </div>
-
-                <div class="col-lg-6">
-                    <!-- Our Belief Image Start -->
-                    <div class="our-belief-image">
-                        <div class="our-belief-img">
-                            <figure>
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/our-belief-image.png" alt="">
-                            </figure>
-                        </div>
-
-                        <!-- Belief Fund Box Start -->
-                        <div class="belief-fund-box">
-                            <div class="icon-box">
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/icon-belief-fund.svg" alt="">
-                            </div>
-
-                            <div class="belief-fund-content">
-                                <p>Total fund</p>
-                                <h3>$2412.00</h3>
-                            </div>
-                        </div>
-                        <!-- Belief Fund Box End -->
-
-                        <!-- Belief Graph Image Start -->    
-                        <div class="belief-graph-image">
-                            <img src="<?php echo get_template_directory_uri();?>/assets/images/belief-graph-imge.png" alt="">
-                        </div>
-                        <!-- Belief Graph Image End -->
-                    </div>
-                    <!-- Our Belief Image End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Our Belief Section End -->
-
-    <!-- Our Testimonials Section Start -->
+   <!-- Our Testimonials Section Start -->
     <div class="our-testimonials">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-md-6">
-                    <!-- Testimonials Content Start -->
+                    <!-- Testimonials Content Box Start -->
                     <div class="testimonials-content-box">
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <h3 class="wow fadeInUp">Testimonials</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">What our happy clients say about <span>working with us</span></h2>
+                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">What Our Happy Clients say about <span>Working with us</span></h2>
                         </div>
                         <!-- Section Title End -->
-
-                        <!-- Testimonial Button Start -->
-                        <div class="testimonial-btn wow fadeInUp" data-wow-delay="0.4s">
-                            <a href="testimonials.html" class="btn-default">View all Review</a>
-                        </div>
-                        <!-- Testimonial Button End -->
                     </div>
-                    <!-- Testimonials Content End -->
+                    <!-- Testimonials Content Box End -->
                 </div>
 
                 <div class="col-lg-4 col-md-6">
                     <!-- Page CTA Box Start -->
                     <div class="page-cta-box testimonial-cta-box">
-                        <!-- Page CTA Header Start -->
-                        <div class="page-cta-header">
-                            <div class="review-images">
-                                <div class="review-image">
-                                    <figure class="image-anime">
-                                        <img src="<?php echo get_template_directory_uri();?>/assets/images/author-1.jpg" alt="">
-                                    </figure>
-                                </div>
-                                <div class="review-image">
-                                    <figure class="image-anime">
-                                        <img src="<?php echo get_template_directory_uri();?>/assets/images/author-2.jpg" alt="">
-                                    </figure>
-                                </div>
-                                <div class="review-image">
-                                    <figure class="image-anime">
-                                        <img src="<?php echo get_template_directory_uri();?>/assets/images/author-3.jpg" alt="">
-                                    </figure>
-                                </div>
-                            </div>
-                            <div class="review-rating-content">
-                                <p><span>2.5k</span> Positive Review in our solutions </p>
-                            </div>
-                        </div>
-                        <!-- Page CTA Header End -->
 
                         <!-- Page CTA Box Body Start -->
                         <div class="page-cta-box-body">
                             <div class="page-cta-counters">
                                 <div class="page-cta-counter-item">
-                                    <h2><span class="counter">95</span></h2>
+                                    <h2><span class="counter">21</span></h2>
                                     <p>Client Satisfaction</p>
                                 </div>
                                 <div class="page-cta-counter-item">
-                                    <h2><span class="counter">1</span>K+</h2>
+                                    <h2><span class="counter">10</span>+</h2>
                                     <p>Project complete</p>
                                 </div>
                             </div>    
                             <div class="page-cta-btn">
-                                <a href="tel:+123456789"><img src="<?php echo get_template_directory_uri();?>/assets/images/icon-phone-white.svg" alt=""> +(123) 456 789</a>
+                                <a href="tel:+8801710903032"><img src="<?php echo get_template_directory_uri();?>/assets/images/icon-phone-white.svg" alt=""> +880 171 09 03 032</a>
+                            </div>
+                            <div class="page-cta-btn">
+                                <a href="tel:+8801819710384"><img src="<?php echo get_template_directory_uri();?>/assets/images/icon-phone-white.svg" alt=""> +880 181 97 10 384 </a>
                             </div>
                         </div>
                         <!-- Page CTA Box Body End -->
@@ -868,293 +337,67 @@ get_header();
 
                 <div class="col-lg-12">
                     <!-- Testimonial Slider Start -->
-                    <div class="testimonial-slider">
-                        <div class="swiper">
-                            <div class="swiper-wrapper" data-cursor-text="Drag">
-                                <!-- Testimonial Slide Start -->
-                                <div class="swiper-slide">
-                                    <div class="testimonial-item">
-                                        <div class="testimonials-rating">
-                                            <i class="fa-solid fa-star"></i>
-                                            <i class="fa-solid fa-star"></i>
-                                            <i class="fa-solid fa-star"></i>
-                                            <i class="fa-solid fa-star"></i>
-                                            <i class="fa-solid fa-star"></i>
-                                        </div>
-                                        <div class="testimonial-content">
-                                            <p>“ Outstanding team! We saw a 4x increase in leads within three months. Their SEO and paid ads strategy brought in qualified traffic like never before highly recommend!”</p>
-                                        </div>                                        
-                                        <div class="testimonial-author">
-                                            <div class="author-content">
-                                                <h3>Brooklyn Simmons</h3>
-                                                <p>co.Founder</p>
-                                            </div>
-                                            <div class="testimonial-quate">
-                                                <img src="<?php echo get_template_directory_uri();?>/assets/images/testimonial-quate.svg" alt="">
-                                            </div>            
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- Testimonial Slide End -->
+<div class="testimonial-slider">
+    <div class="swiper">
+        <div class="swiper-wrapper" data-cursor-text="Drag">
 
-                                <!-- Testimonial Slide Start -->
-                                <div class="swiper-slide">
-                                    <div class="swiper-slide">
-                                        <div class="testimonial-item">
-                                            <div class="testimonials-rating">
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                            </div>
-                                            <div class="testimonial-content">
-                                                <p>“ Outstanding team! We saw a 4x increase in leads within three months. Their SEO and paid ads strategy brought in qualified traffic like never before highly recommend!”</p>
-                                            </div>                                        
-                                            <div class="testimonial-author">
-                                                <div class="author-content">
-                                                    <h3>isabella clarke</h3>
-                                                    <p>chief technology officer</p>
-                                                </div>
-                                                <div class="testimonial-quate">
-                                                    <img src="<?php echo get_template_directory_uri();?>/assets/images/testimonial-quate.svg" alt="">
-                                                </div>            
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- Testimonial Slide End -->
+            <?php
+            $args = [
+                'post_type'      => 'testimonials',
+                'posts_per_page' => -1,
+                'orderby'        => 'date',
+                'order'          => 'DESC',
+            ];
+            $testimonial_query = new WP_Query( $args );
 
-                                <!-- Testimonial Slide Start -->
-                                <div class="swiper-slide">
-                                    <div class="swiper-slide">
-                                        <div class="testimonial-item">
-                                            <div class="testimonials-rating">
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                            </div>
-                                            <div class="testimonial-content">
-                                                <p>“ Outstanding team! We saw a 4x increase in leads within three months. Their SEO and paid ads strategy brought in qualified traffic like never before highly recommend!”</p>
-                                            </div>                                        
-                                            <div class="testimonial-author">
-                                                <div class="author-content">
-                                                    <h3>alexander bennett</h3>
-                                                    <p>senior brand strategist</p>
-                                                </div>
-                                                <div class="testimonial-quate">
-                                                    <img src="<?php echo get_template_directory_uri();?>/assets/images/testimonial-quate.svg" alt="">
-                                                </div>            
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- Testimonial Slide End -->
-                                    
-                                <!-- Testimonial Slide Start -->
-                                <div class="swiper-slide">
-                                    <div class="swiper-slide">
-                                        <div class="testimonial-item">
-                                            <div class="testimonials-rating">
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                            </div>
-                                            <div class="testimonial-content">
-                                                <p>“ Outstanding team! We saw a 4x increase in leads within three months. Their SEO and paid ads strategy brought in qualified traffic like never before highly recommend!”</p>
-                                            </div>                                        
-                                            <div class="testimonial-author">
-                                                <div class="author-content">
-                                                    <h3>christopher N.</h3>
-                                                    <p>senior manager</p>
-                                                </div>
-                                                <div class="testimonial-quate">
-                                                    <img src="<?php echo get_template_directory_uri();?>/assets/images/testimonial-quate.svg" alt="">
-                                                </div>            
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- Testimonial Slide End -->
+            if ( $testimonial_query->have_posts() ) :
+                while ( $testimonial_query->have_posts() ) : $testimonial_query->the_post();
+                    $designation = get_post_meta( get_the_ID(), '_ifs_wp_testimonial_designation', true );
+            ?>
+                <!-- Testimonial Slide Start -->
+                <div class="swiper-slide">
+                    <div class="testimonial-item">
+                        <div class="testimonials-rating">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                        <div class="testimonial-content">
+                            <p><?php the_content(); ?></p>
+                        </div>
+                        <div class="testimonial-author">
+                            <div class="author-content">
+                                <h3><?php the_title(); ?></h3>
+                                <p><?php echo esc_html( $designation ); ?></p>
                             </div>
-                            <div class="testimonial-pagination"></div>
+                            <div class="testimonial-quate">
+                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/testimonial-quate.svg" alt="">
+                            </div>
                         </div>
                     </div>
-                    <!-- Testimonial Slider End -->
+                </div>
+                <!-- Testimonial Slide End -->
+
+            <?php
+                endwhile;
+                wp_reset_postdata();
+            else :
+                echo '<p>No testimonials found.</p>';
+            endif;
+            ?>
+
+        </div>
+        <div class="testimonial-pagination"></div>
+    </div>
+</div>
+<!-- Testimonial Slider End -->
+
                 </div>
             </div>
         </div>
     </div>
     <!-- Our Testimonials Section End -->
-
-    <!-- Our Faqs Section Start -->
-    <div class="our-faqs">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <!-- Faq Image Start -->
-                    <div class="faq-image">
-                        <div class="faq-img">
-                            <figure class="image-anime">
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/faqs-image.jpg" alt="">
-                            </figure>
-                        </div>
-
-                        <div class="faq-cta-box">
-                            <div class="icon-box">
-                                <img src="<?php echo get_template_directory_uri();?>/assets/images/icon-headphone.svg" alt="">
-                            </div>
-
-                            <div class="faq-cta-content">
-                                <h3>Have Any Question?</h3>
-                                <p><a href="tel:123456789">+(91) 132 465 7890</a></p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Faq Image End -->
-                </div>
-
-                <div class="col-lg-6">
-                    <!-- Faqs Content Start -->
-                    <div class="faqs-content">
-                        <!-- Section Title Start -->
-                        <div class="section-title">
-                            <h3 class="wow fadeInUp">FAQ's</h3>
-                            <h2 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque"> Got questions? <span>we answer</span></h2>
-                        </div>
-                        <!-- Section Title End -->
-
-                        <!-- FAQ Accordion Start -->
-                        <div class="faq-accordion" id="accordion">
-                            <!-- FAQ Item Start -->
-                            <div class="accordion-item wow fadeInUp">
-                                <h2 class="accordion-header" id="heading1">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                                        1. What is digital marketing, & help my business?
-                                    </button>
-                                </h2>
-                                <div id="collapse1" class="accordion-collapse collapse show" aria-labelledby="heading1" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>We track key performance indicators(KPIs) such as website, conversion, click-through rates (CTR), ROI.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ Item End -->
-
-                            <!-- FAQ Item Start -->
-                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
-                                <h2 class="accordion-header" id="heading2">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                                        2. How do you measure success in a campaign?
-                                    </button>
-                                </h2>
-                                <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>We track key performance indicators(KPIs) such as website, conversion, click-through rates (CTR), ROI.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ Item End -->
-
-                            <!-- FAQ Item Start -->
-                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
-                                <h2 class="accordion-header" id="heading3">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                                        3. Can you help with both SEO and paid ads?
-                                    </button>
-                                </h2>
-                                <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>We track key performance indicators(KPIs) such as website, conversion, click-through rates (CTR), ROI.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ Item End -->
-
-                            <!-- FAQ Item Start -->
-                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
-                                <h2 class="accordion-header" id="heading4">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                                        4. Is there a contract or long-term commitment?
-                                    </button>
-                                </h2>
-                                <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-bs-parent="#accordion">
-                                    <div class="accordion-body">
-                                        <p>We track key performance indicators(KPIs) such as website, conversion, click-through rates (CTR), ROI.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- FAQ Item End -->
-                        </div>
-                        <!-- FAQ Accordion End -->
-                    </div>
-                    <!-- Faqs Content End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Our Faqs Section End -->
-
-    <!-- CTA Box Section Start -->
-    <div class="cta-box">
-        <div class="cta-section bg-section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <!-- CTA Box Content Start -->
-                        <div class="cta-box-content">
-                            <!-- Section Title Start -->
-                            <div class="section-title">
-                                <h2 class="wow fadeInUp" data-cursor="-opaque">Let's work together <span class="cta-title-img-2"><img src="<?php echo get_template_directory_uri();?>/assets/images/about-title-img-2.jpg" alt=""></span> to grow <span class="cta-title-img-1"><img src="<?php echo get_template_directory_uri();?>/assets/images/about-title-img-1.jpg" alt=""></span> your business</h2>
-                            </div>
-                            <!-- Section Title End -->
-    
-                            <!-- CTA Box Form Start -->
-                            <div class="cta-box-form">
-                                <form id="ctaboxForm" action="#" method="POST">
-                                    <div class="form-group">
-                                        <input type="email" name="email" class="form-control" id="email" placeholder="Enter your e-mail" required>
-                                        <button type="submit" class="btn-default">Subscribe</button>
-                                    </div>
-                                </form>
-                            </div>
-                            <!-- CTA Box Form End -->
-    
-                            <!-- CTA Box Body Start -->
-                            <div class="cta-box-body wow fadeInUp" data-wow-delay="0.2s">
-                                <div class="review-images">
-                                    <div class="review-image">
-                                        <figure class="image-anime">
-                                            <img src="<?php echo get_template_directory_uri();?>/assets/images/author-1.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="review-image">
-                                        <figure class="image-anime">
-                                            <img src="<?php echo get_template_directory_uri();?>/assets/images/author-2.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="review-image">
-                                        <figure class="image-anime">
-                                            <img src="<?php echo get_template_directory_uri();?>/assets/images/author-3.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                </div>
-                                <div class="review-rating-content">
-                                    <p>5.7K+ Already Subscribed</p>
-                                </div>
-                            </div>
-                            <!-- CTA Box Body End -->
-                        </div>
-                        <!-- CTA Box Content End -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- CTA Box Section End -->
 
     <?php get_footer();?>
