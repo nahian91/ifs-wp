@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+<!-- Mirrored from html.awaikenthemes.com/rankio/digital-marketing/video-gallery.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 12 Nov 2025 05:36:29 GMT -->
+<head>
+	<!-- Meta -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta name="author" content="Awaiken">
+	<!-- Page Title -->
+    <title>Rankio - Digital Marketing HTML Template</title>
+	<!-- Favicon Icon -->
+	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+	<!-- Google Fonts Css-->
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@100..800&amp;display=swap" rel="stylesheet">
+	<!-- Bootstrap Css -->
+	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<!-- SlickNav Css -->
+	<link href="css/slicknav.min.css" rel="stylesheet">
+	<!-- Swiper Css -->
+	<link rel="stylesheet" href="css/swiper-bundle.min.css">
+	<!-- Font Awesome Icon Css-->
+	<link href="css/all.min.css" rel="stylesheet" media="screen">
+	<!-- Animated Css -->
+	<link href="css/animate.css" rel="stylesheet">
+    <!-- Magnific Popup Core Css File -->
+	<link rel="stylesheet" href="css/magnific-popup.css">
+	<!-- Mouse Cursor Css File -->
+	<link rel="stylesheet" href="css/mousecursor.css">
+	<!-- Main Custom Css -->
+	<link href="css/custom.css" rel="stylesheet" media="screen">
+</head>
+<body>
+
+    <!-- Preloader Start -->
+	<div class="preloader">
+		<div class="loading-container">
+			<div class="loading"></div>
+			<div id="loading-icon"><img src="images/loader.svg" alt=""></div>
+		</div>
+	</div>
+	<!-- Preloader End -->
+
+    <!-- Header Start -->
+	<header class="main-header">
+		<div class="header-sticky">
+			<nav class="navbar navbar-expand-lg">
+				<div class="container">
+					<!-- Logo Start -->
+					<a class="navbar-brand" href="index-2.html">
+						<img src="images/logo.svg" alt="Logo">
+					</a>
+					<!-- Logo End -->
+
+					<!-- Main Menu Start -->
+					<div class="collapse navbar-collapse main-menu">
+                        <div class="nav-menu-wrapper">
+                            <ul class="navbar-nav mr-auto" id="menu">
+                                <li class="nav-item submenu"><a class="nav-link" href="index-2.html">Home</a>
+                                    <ul>
+                                        <li class="nav-item"><a class="nav-link" href="index.html">Home - Main</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="index-image.html">Home - Image</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="index-video.html">Home - Video</a></li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item"><a class="nav-link" href="about.html">About Us</a>
+                                <li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
+                                <li class="nav-item"><a class="nav-link" href="blog.html">Blog</a></li>
+                                <li class="nav-item submenu"><a class="nav-link" href="#">Pages</a>
+                                    <ul>
+                                        <li class="nav-item"><a class="nav-link" href="service-single.html">Service Details</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="blog-single.html">Blog Details</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="projects.html">Projects</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="project-single.html">Project details</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="team.html">Our Team</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="team-single.html">Team Details</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="pricing.html">Pricing Plan</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="testimonials.html">Testimonials</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="image-gallery.html">Image Gallery</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="video-gallery.html">Video Gallery</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="faqs.html">FAQs</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="404.html">404</a></li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item"><a class="nav-link" href="contact.html">Contact Us</a></li>
+                            </ul>
+                        </div>
+                        
+                        <!-- Header Btn Start -->
+                        <div class="header-btn">
+                            <a href="contact.html" class="btn-default">Get Started Today</a>
+                        </div>
+                        <!-- Header Btn End -->
+					</div>
+					<!-- Main Menu End -->
+					<div class="navbar-toggle"></div>
+				</div>
+			</nav>
+			<div class="responsive-menu"></div>
+		</div>
+	</header>
+	<!-- Header End -->
+
+   <!-- Page Header Start -->
+    <div class="page-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <!-- Page Header Box Start -->
+                    <div class="page-header-box">
+                        <h1 class="wow fadeInUp" data-cursor="-opaque">Our <span>video</span></h1>                        
+                        <nav class="wow fadeInUp" data-wow-delay="0.2s">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item"><a href="index-2.html">home</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">our video</li>
+                            </ol>
+                        </nav>
+                    </div>
+                    <!-- Page Header Box End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Page Header End -->
+
+    <!-- Scrolling Ticker Section Start -->
+    <div class="our-scrolling-ticker">
+        <!-- Scrolling Ticker Start -->
+        <div class="scrolling-ticker-box">
+            <div class="scrolling-content">
+                <span><img src="images/icon-sparkle.svg" alt="">Social Media Marketing</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Search Engine Optimization</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Email Marketing</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Web Design</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Mobile Marketing Solutions</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Social Media Marketing</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Search Engine Optimization</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Email Marketing</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Web Design</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Mobile Marketing Solutions</span>
+            </div>
+
+            <div class="scrolling-content">
+                <span><img src="images/icon-sparkle.svg" alt="">Social Media Marketing</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Search Engine Optimization</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Email Marketing</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Web Design</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Mobile Marketing Solutions</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Social Media Marketing</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Search Engine Optimization</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Email Marketing</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Web Design</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Mobile Marketing Solutions</span>
+            </div>
+        </div>
+        <!-- Scrolling Ticker End -->
+    </div>
+    <!-- Scrolling Ticker Section End -->
+
+    <!-- Page Video Gallery Start -->
+    <div class="page-video-gallery">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <!-- Video Gallery start -->
+                    <div class="video-gallery-image wow fadeInUp">
+                        <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video" data-cursor-text="Play">
+                            <figure>
+                                <img src="images/gallery-3.jpg" alt="">
+                            </figure>
+                        </a>
+                    </div>
+                    <!-- Video Gallery end -->
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <!-- Video Gallery start -->
+                    <div class="video-gallery-image wow fadeInUp" data-wow-delay="0.2s">
+                        <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video" data-cursor-text="Play">
+                            <figure>
+                                <img src="images/gallery-5.jpg" alt="">
+                            </figure>
+                        </a>
+                    </div>
+                    <!-- Video Gallery end -->
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <!-- Video Gallery start -->
+                    <div class="video-gallery-image wow fadeInUp" data-wow-delay="0.4s">
+                        <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video" data-cursor-text="Play">
+                            <figure>
+                                <img src="images/gallery-2.jpg" alt="">
+                            </figure>
+                        </a>
+                    </div>
+                    <!-- Video Gallery end -->
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <!-- Video Gallery start -->
+                    <div class="video-gallery-image wow fadeInUp" data-wow-delay="0.6s">
+                        <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video" data-cursor-text="Play">
+                            <figure>
+                                <img src="images/gallery-1.jpg" alt="">
+                            </figure>
+                        </a>
+                    </div>
+                    <!-- Video Gallery end -->
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <!-- Video Gallery start -->
+                    <div class="video-gallery-image wow fadeInUp" data-wow-delay="0.8s">
+                        <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video" data-cursor-text="Play">
+                            <figure>
+                                <img src="images/gallery-4.jpg" alt="">
+                            </figure>
+                        </a>
+                    </div>
+                    <!-- Video Gallery end -->
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <!-- Video Gallery start -->
+                    <div class="video-gallery-image wow fadeInUp" data-wow-delay="1s">
+                        <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video" data-cursor-text="Play">
+                            <figure>
+                                <img src="images/gallery-9.jpg" alt="">
+                            </figure>
+                        </a>
+                    </div>
+                    <!-- Video Gallery end -->
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <!-- Video Gallery start -->
+                    <div class="video-gallery-image wow fadeInUp" data-wow-delay="1.2s">
+                        <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video" data-cursor-text="Play">
+                            <figure>
+                                <img src="images/gallery-6.jpg" alt="">
+                            </figure>
+                        </a>
+                    </div>
+                    <!-- Video Gallery end -->
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <!-- Video Gallery start -->
+                    <div class="video-gallery-image wow fadeInUp" data-wow-delay="1.4s">
+                        <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video" data-cursor-text="Play">
+                            <figure>
+                                <img src="images/gallery-8.jpg" alt="">
+                            </figure>
+                        </a>
+                    </div>
+                    <!-- Video Gallery end -->
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <!-- Video Gallery start -->
+                    <div class="video-gallery-image wow fadeInUp" data-wow-delay="1.6s">
+                        <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video" data-cursor-text="Play">
+                            <figure>
+                                <img src="images/gallery-7.jpg" alt="">
+                            </figure>
+                        </a>
+                    </div>
+                    <!-- Video Gallery end -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Page Video Gallery End -->
+
+    <!-- Footer Start -->
+    <footer class="main-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <!-- Footer Header Start -->
+                    <div class="footer-header">
+                        <!-- Footer Logo Start -->
+                        <div class="footer-logo">
+                            <img src="images/footer-logo.svg" alt="">
+                        </div>
+                        <!-- Footer Logo End -->
+    
+                        <!-- Footer Contact Details Start -->
+                        <div class="footer-contact-details">
+                            <!-- Footer Contact Item Start -->
+                            <div class="footer-contact-item">
+                                <div class="icon-box">
+                                    <img src="images/icon-headset-gradiant.svg" alt="">
+                                </div>
+                                <div class="footer-contact-item-content">
+                                    <p><a href="tel:+123456789">+(123) 456 789</a></p>
+                                    <p><a href="mailto:support@example.com">support@example.com</a></p>
+                                </div>
+                            </div>
+                            <!-- Footer Contact Item End -->
+
+                            <!-- Footer Contact Item Start -->
+                            <div class="footer-contact-item">
+                                <div class="icon-box">
+                                    <img src="images/icon-location-gradiant.svg" alt="">
+                                </div>
+                                <div class="footer-contact-item-content">
+                                    <p>123 - Ipsum Street London WC1A 1AA UK</p>
+                                </div>
+                            </div>
+                            <!-- Footer Contact Item End -->
+                        </div>
+                        <!-- Footer Contact Details End -->
+                    </div>
+                    <!-- Footer Header End -->
+                </div>
+                    
+                <div class="col-lg-4">
+                    <!-- Footer Newsletter Box Start -->
+                    <div class="footer-newsletter-box">
+                        <h3>Subscribe Newsletter's</h3>
+                        <!-- Footer Newsletter Form Start -->
+                        <div class="footer-newsletter-form">
+                            <form id="newslettersForm" action="#" method="POST">
+                                <div class="form-group">
+                                    <input type="email" name="mail" class="form-control"  id="mail" placeholder="E-mail Address" required>
+                                    <button type="submit" class="btn-default">Subscribe</button>
+                                </div>
+                            </form>
+                        </div>
+                        <!-- Footer Newsletter Box End -->                        
+                        <p>* Stay updated with the latest SEO tips trends, & insights-straight to your inbox.</p>
+                    </div>
+                    <!-- Footer Links End -->
+                </div>
+
+                <div class="col-lg-8">
+                    <!-- Footer Links Box Start -->
+                    <div class="footer-links-box">
+                        <!-- Footer Links Start -->
+                        <div class="footer-links">
+                            <h3>quick links</h3>
+                            <ul>
+                                <li><a href="index.html">Home</a></li>
+                                <li><a href="about.html">About us</a></li>
+                                <li><a href="services.html">Services</a></li>
+                                <li><a href="blog.html">blog</a></li>
+                            </ul>
+                        </div>
+                        <!-- Footer Links End -->
+    
+                        <!-- Footer Links Start -->
+                        <div class="footer-links">
+                            <h3>Services</h3>
+                            <ul>
+                                <li><a href="service-single.html">Keyword Research</a></li>
+                                <li><a href="service-single.html">SEO Copywriting</a></li>
+                                <li><a href="service-single.html">Content Marketing</a></li>
+                                <li><a href="service-single.html">Technical SEO Audits</a></li>
+                            </ul>
+                        </div>
+                        <!-- Footer Links End -->
+        
+                        <!-- Footer Links Start -->
+                        <div class="footer-links">
+                            <h3>Support</h3>
+                            <ul>
+                                <li><a href="#">Help</a></li>
+                                <li><a href="#">Term's & Conditions</a></li>
+                                <li><a href="#">Privacy Policy</a></li>
+                                <li><a href="contact.html">Contact us</a></li>
+                            </ul>
+                        </div>
+                        <!-- Footer Links End -->
+                    </div>
+                    <!-- Footer Links Box End -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer Copyright Start -->
+        <div class="footer-copyright">
+            <div class="container">
+                <div class="col-lg-12">
+                    <!-- Footer Copyright Text Start -->
+                    <div class="footer-copyright-text">
+                        <p>Copyright © 2025 All Rights Reserved.</p>
+                    </div>
+                    <!-- Footer Copyright Text End -->
+                </div>
+            </div>
+        </div>
+        <!-- Footer Copyright End -->
+    </footer>
+    <!-- Footer End -->
+
+    <!-- Jquery Library File -->
+    <script src="js/jquery-3.7.1.min.js"></script>
+    <!-- Bootstrap js file -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Validator js file -->
+    <script src="js/validator.min.js"></script>
+    <!-- SlickNav js file -->
+    <script src="js/jquery.slicknav.js"></script>
+    <!-- Swiper js file -->
+    <script src="js/swiper-bundle.min.js"></script>
+    <!-- Counter js file -->
+    <script src="js/jquery.waypoints.min.js"></script>
+    <script src="js/jquery.counterup.min.js"></script>
+    <!-- Magnific js file -->
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <!-- SmoothScroll -->
+    <script src="js/SmoothScroll.js"></script>
+    <!-- Parallax js -->
+    <script src="js/parallaxie.js"></script>
+    <!-- MagicCursor js file -->
+    <script src="js/gsap.min.js"></script>
+    <script src="js/magiccursor.js"></script>
+    <!-- Text Effect js file -->
+    <script src="js/SplitText.js"></script>
+    <script src="js/ScrollTrigger.min.js"></script>
+    <!-- YTPlayer js File -->
+    <script src="js/jquery.mb.YTPlayer.min.js"></script>
+    <!-- Wow js file -->
+    <script src="js/wow.min.js"></script>
+    <!-- Main Custom js file -->
+    <script src="js/function.js"></script>
+</body>
+
+<!-- Mirrored from html.awaikenthemes.com/rankio/digital-marketing/video-gallery.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 12 Nov 2025 05:36:29 GMT -->
+</html>

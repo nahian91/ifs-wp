@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+<!-- Mirrored from html.awaikenthemes.com/rankio/digital-marketing/project-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 12 Nov 2025 05:36:23 GMT -->
+<head>
+	<!-- Meta -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta name="author" content="Awaiken">
+	<!-- Page Title -->
+    <title>Rankio - Digital Marketing HTML Template</title>
+	<!-- Favicon Icon -->
+	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+	<!-- Google Fonts Css-->
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@100..800&amp;display=swap" rel="stylesheet">
+	<!-- Bootstrap Css -->
+	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<!-- SlickNav Css -->
+	<link href="css/slicknav.min.css" rel="stylesheet">
+	<!-- Swiper Css -->
+	<link rel="stylesheet" href="css/swiper-bundle.min.css">
+	<!-- Font Awesome Icon Css-->
+	<link href="css/all.min.css" rel="stylesheet" media="screen">
+	<!-- Animated Css -->
+	<link href="css/animate.css" rel="stylesheet">
+    <!-- Magnific Popup Core Css File -->
+	<link rel="stylesheet" href="css/magnific-popup.css">
+	<!-- Mouse Cursor Css File -->
+	<link rel="stylesheet" href="css/mousecursor.css">
+	<!-- Main Custom Css -->
+	<link href="css/custom.css" rel="stylesheet" media="screen">
+</head>
+<body>
+
+    <!-- Preloader Start -->
+	<div class="preloader">
+		<div class="loading-container">
+			<div class="loading"></div>
+			<div id="loading-icon"><img src="images/loader.svg" alt=""></div>
+		</div>
+	</div>
+	<!-- Preloader End -->
+
+    <!-- Header Start -->
+	<header class="main-header">
+		<div class="header-sticky">
+			<nav class="navbar navbar-expand-lg">
+				<div class="container">
+					<!-- Logo Start -->
+					<a class="navbar-brand" href="index-2.html">
+						<img src="images/logo.svg" alt="Logo">
+					</a>
+					<!-- Logo End -->
+
+					<!-- Main Menu Start -->
+					<div class="collapse navbar-collapse main-menu">
+                        <div class="nav-menu-wrapper">
+                            <ul class="navbar-nav mr-auto" id="menu">
+                                <li class="nav-item submenu"><a class="nav-link" href="index-2.html">Home</a>
+                                    <ul>
+                                        <li class="nav-item"><a class="nav-link" href="index.html">Home - Main</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="index-image.html">Home - Image</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="index-video.html">Home - Video</a></li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item"><a class="nav-link" href="about.html">About Us</a>
+                                <li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
+                                <li class="nav-item"><a class="nav-link" href="blog.html">Blog</a></li>
+                                <li class="nav-item submenu"><a class="nav-link" href="#">Pages</a>
+                                    <ul>
+                                        <li class="nav-item"><a class="nav-link" href="service-single.html">Service Details</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="blog-single.html">Blog Details</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="projects.html">Projects</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="project-single.html">Project details</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="team.html">Our Team</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="team-single.html">Team Details</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="pricing.html">Pricing Plan</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="testimonials.html">Testimonials</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="image-gallery.html">Image Gallery</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="video-gallery.html">Video Gallery</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="faqs.html">FAQs</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="404.html">404</a></li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item"><a class="nav-link" href="contact.html">Contact Us</a></li>
+                            </ul>
+                        </div>
+                        
+                        <!-- Header Btn Start -->
+                        <div class="header-btn">
+                            <a href="contact.html" class="btn-default">Get Started Today</a>
+                        </div>
+                        <!-- Header Btn End -->
+					</div>
+					<!-- Main Menu End -->
+					<div class="navbar-toggle"></div>
+				</div>
+			</nav>
+			<div class="responsive-menu"></div>
+		</div>
+	</header>
+	<!-- Header End -->
+
+   <!-- Page Header Start -->
+    <div class="page-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <!-- Page Header Box Start -->
+                    <div class="page-header-box">
+                        <h1 class="wow fadeInUp" data-cursor="-opaque">Hyperlocal <span>campaign...</span></h1>                        
+                        <nav class="wow fadeInUp" data-wow-delay="0.2s">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item"><a href="index-2.html">home</a></li>
+                                <li class="breadcrumb-item"><a href="projects.html">projects</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">Hyperlocal campaign...</li>
+                            </ol>
+                        </nav>
+                    </div>
+                    <!-- Page Header Box End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Page Header End -->
+
+    <!-- Scrolling Ticker Section Start -->
+    <div class="our-scrolling-ticker">
+        <!-- Scrolling Ticker Start -->
+        <div class="scrolling-ticker-box">
+            <div class="scrolling-content">
+                <span><img src="images/icon-sparkle.svg" alt="">Social Media Marketing</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Search Engine Optimization</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Email Marketing</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Web Design</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Mobile Marketing Solutions</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Social Media Marketing</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Search Engine Optimization</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Email Marketing</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Web Design</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Mobile Marketing Solutions</span>
+            </div>
+
+            <div class="scrolling-content">
+                <span><img src="images/icon-sparkle.svg" alt="">Social Media Marketing</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Search Engine Optimization</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Email Marketing</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Web Design</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Mobile Marketing Solutions</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Social Media Marketing</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Search Engine Optimization</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Email Marketing</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Web Design</span>
+                <span><img src="images/icon-sparkle.svg" alt="">Mobile Marketing Solutions</span>
+            </div>
+        </div>
+        <!-- Scrolling Ticker End -->
+    </div>
+    <!-- Scrolling Ticker Section End -->
+
+    <!-- Page Project Single Start -->
+    <div class="page-project-single">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4">
+                    <!-- Page Single Sidebar Start -->
+                    <div class="page-single-sidebar">
+                        <!-- Page Category List Start -->
+                        <div class="page-category-list project-category-list wow fadeInUp">
+                            <h3>Discover Our Projects</h3>
+                            <ul>
+                                <li><span>Client :</span>Jonathan Carter</li>
+                                <li><span>Category :</span>Hyperlocal Campaign...</li>
+                                <li><span>Location :</span>USA</li>
+                                <li><span>Date :</span>21 April 2025</li>
+                            </ul>
+                        </div>
+                        <!-- Page Category List End -->
+
+                        <!-- Sidebar Cta Box Start -->
+                        <div class="page-cta-box sidebar-cta-box wow fadeInUp" data-wow-delay="0.2s">
+                            <!-- Page CTA Header Start -->
+                            <div class="page-cta-header">
+                                <div class="review-images">
+                                    <div class="review-image">
+                                        <figure class="image-anime">
+                                            <img src="images/author-1.jpg" alt="">
+                                        </figure>
+                                    </div>
+                                    <div class="review-image">
+                                        <figure class="image-anime">
+                                            <img src="images/author-2.jpg" alt="">
+                                        </figure>
+                                    </div>
+                                    <div class="review-image">
+                                        <figure class="image-anime">
+                                            <img src="images/author-3.jpg" alt="">
+                                        </figure>
+                                    </div>
+                                </div>
+                                <div class="review-rating-content">
+                                    <p><span>2.5k</span> Positive Review in our solutions </p>
+                                </div>
+                            </div>
+                            <!-- Page CTA Header End -->
+
+                            <!-- Page CTA Box Body Start -->
+                            <div class="page-cta-box-body">
+                                <div class="page-cta-counters">
+                                    <div class="page-cta-counter-item">
+                                        <h2><span class="counter">95</span></h2>
+                                        <p>Client satisfaction</p>
+                                    </div>
+                                    <div class="page-cta-counter-item">
+                                        <h2><span class="counter">1</span>K+</h2>
+                                        <p>Project complete</p>
+                                    </div>
+                                </div>    
+                                <div class="page-cta-btn">
+                                    <a href="tel:+123456789"><img src="images/icon-phone-white.svg" alt=""> +(123) 456 789</a>
+                                </div>
+                            </div>
+                            <!-- Page CTA Box Body End -->
+                        </div>
+                        <!-- Sidebar Cta Box End -->
+                    </div>
+                    <!-- Page Single Sidebar End -->
+                </div>
+
+                <div class="col-lg-8">
+                    <!-- Project Single Content Start -->
+                    <div class="project-single-content">
+                        <!-- Page Single image Start -->
+                        <div class="page-single-image">
+                            <figure class="image-anime reveal">
+                                <img src="images/project-2.jpg" alt="">
+                            </figure>
+                        </div>
+                        <!-- Page Single image End -->
+                        
+                        <!-- Project Entry Start -->
+                        <div class="project-entry">
+                            <p class="wow fadeInUp">Our social media marketing strategies are designed to amplify your brand's voice, connect with your audience on a deeper level, and spark meaningful engagement. From crafting compelling content to managing campaigns across platforms like Instagram, Facebook, LinkedIn, and X (formerly Twitter), we ensure your brand stays visible, relevant, and trusted.</p>
+                            <p class="wow fadeInUp" data-wow-delay="0.2s">We don't believe in one-size-fits-all solutions. Our team studies your industry, competitors, and audience behavior to build customized strategies that drive growth and conversions. With performance analytics</p>
+
+                            <!-- Project Highlight Box Start -->
+                            <div class="project-highlight-box">
+                                <h2 class="wow fadeInUp" data-wow-delay="0.4s">Project highlights <span>key outcome</span></h2>
+                                <p class="wow fadeInUp" data-wow-delay="0.6s">We combine data-driven strategies, creative innovation, and proven expertise to help your brand grow online from SEO to social media.</p>
+
+                                <!-- Project Highlight Body Start -->
+                                <div class="project-highlight-body">
+                                    <!-- Project Highlight Item List Start -->
+                                    <div class="project-highlight-item-list">
+                                        <!-- Project Highlight Item Start -->
+                                        <div class="project-highlight-item">
+                                            <div class="icon-box">
+                                                <img src="images/icon-project-highlight-1.svg" alt="">
+                                            </div>
+                                            <div class="project-highlight-item-content">
+                                                <h3>1. Discovery & Strategy</h3>
+                                                <p>We begin by understanding your busine goals, audience, current.</p>
+                                            </div>
+                                        </div>
+                                        <!-- Project Highlight Item End -->
+
+                                        <!-- Project Highlight Item Start -->
+                                        <div class="project-highlight-item wow fadeInUp" data-wow-delay="0.2s">
+                                            <div class="icon-box">
+                                                <img src="images/icon-project-highlight-2.svg" alt="">
+                                            </div>
+                                            <div class="project-highlight-item-content">
+                                                <h3>2. Campaign Planning</h3>
+                                                <p>We begin by understanding your busine goals, audience, current.</p>
+                                            </div>
+                                        </div>
+                                        <!-- Project Highlight Item End -->
+
+                                        <!-- Project Highlight Item Start -->
+                                        <div class="project-highlight-item wow fadeInUp" data-wow-delay="0.4s">
+                                            <div class="icon-box">
+                                                <img src="images/icon-project-highlight-3.svg" alt="">
+                                            </div>
+                                            <div class="project-highlight-item-content">
+                                                <h3>3. Research & Planning</h3>
+                                                <p>We begin by understanding your busine goals, audience, current.</p>
+                                            </div>
+                                        </div>
+                                        <!-- Project Highlight Item End -->
+                                    </div>
+                                    <!-- Project Highlight Item List End -->
+
+                                    <!-- Project Highlight Image Start -->
+                                    <div class="project-highlight-image">
+                                        <figure class="image-anime reveal">
+                                            <img src="images/project-highlight-image.jpg" alt="">
+                                        </figure>
+                                    </div>
+                                    <!-- Project Highlight Image End -->
+                                </div>
+                                <!-- Project Highlight Body End -->
+                            </div>
+                            <!-- Project Highlight Box End -->
+
+                            <!-- Project Result Box Start -->
+                            <div class="project-result-box">
+                                <h2 class="wow fadeInUp">Results that speak <span>for themselves</span></h2>
+                                <p class="wow fadeInUp" data-wow-delay="0.2s">We combine data-driven strategies, creative innovation, and proven expertise to help your brand grow online from SEO to social media.</p>
+
+                                <!-- Project Result Item List Start -->
+                                <div class="project-result-item-list">
+                                    <!-- Project Result Item Start -->
+                                    <div class="project-result-item wow fadeInUp" data-wow-delay="0.4s">
+                                        <h3>Improved Conversion Rates</h3>
+                                        <p>We combine data-driven of th strategies, creative proven expertise.</p>
+                                        <ul>
+                                            <li>Social media growth that convert</li>
+                                            <li>Performance Track With Insights</li>
+                                        </ul>
+                                    </div>
+                                    <!-- Project Result Item End -->
+
+                                    <!-- Project Result Item Start -->
+                                    <div class="project-result-item wow fadeInUp" data-wow-delay="0.6s">
+                                        <h3>Higher Engagement Levels</h3>
+                                        <p>We combine data-driven of th strategies, creative proven expertise.</p>
+                                        <ul>
+                                            <li>Social media growth that convert</li>
+                                            <li>Performance Track With Insights</li>
+                                        </ul>
+                                    </div>
+                                    <!-- Project Result Item End -->
+
+                                    <!-- Project Result Item Start -->
+                                    <div class="project-result-item wow fadeInUp" data-wow-delay="0.8s">
+                                        <h3>Consistent Business Growth</h3>
+                                        <p>We combine data-driven of th strategies, creative proven expertise.</p>
+                                        <ul>
+                                            <li>Social media growth that convert</li>
+                                            <li>Performance Track With Insights</li>
+                                        </ul>
+                                    </div>
+                                    <!-- Project Result Item End -->
+
+                                    <!-- Project Result Item Start -->
+                                    <div class="project-result-item wow fadeInUp" data-wow-delay="1s">
+                                        <h3>Stronger Brand Visibility</h3>
+                                        <p>We combine data-driven of th strategies, creative proven expertise.</p>
+                                        <ul>
+                                            <li>Social media growth that convert</li>
+                                            <li>Performance Track With Insights</li>
+                                        </ul>
+                                    </div>
+                                    <!-- Project Result Item End -->
+                                </div>
+                                <!-- Project Result Item List End -->
+                            </div>
+                            <!-- Project Result Box End -->
+
+                            <!-- Project Marketing Box Start -->
+                            <div class="project-marketing-box">
+                                <h2 class="wow fadeInUp">Driving Success to <span>Smart Marketing</span></h2>
+                                <p class="wow fadeInUp" data-wow-delay="0.2s">We combine data-driven strategies, creative innovation, and proven expertise to help your brand grow online from SEO to social media.</p>
+
+                                <!-- Project Entry Image Video Start -->
+                                <div class="project-entry-image-video">
+                                    <figure class="image-anime">
+                                        <img src="images/project-marketing-image.jpg" alt="">
+                                    </figure>
+                                    
+                                    <div class="video-play-button">
+                                        <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video" data-cursor-text="Play">
+                                            <i class="fa-solid fa-play"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                <!-- Project Entry Image Video End -->
+
+                                <!-- Marketing Counters List Start -->
+                                <div class="marketing-counters-list">
+                                    <!-- Marketing Counters Item Start -->
+                                    <div class="marketing-counter-item">
+                                        <div class="icon-box">
+                                            <img src="images/icon-marketing-counter-1.svg" alt="">
+                                        </div>
+                                        <div class="marketing-counter-item-content">
+                                            <h2><span class="counter">77</span>%</h2>
+                                            <p>Client Satisfaction</p>
+                                        </div>
+                                    </div>
+                                    <!-- Marketing Counters Item End -->
+
+                                    <!-- Marketing Counters Item Start -->
+                                    <div class="marketing-counter-item">
+                                        <div class="icon-box">
+                                            <img src="images/icon-marketing-counter-2.svg" alt="">
+                                        </div>
+                                        <div class="marketing-counter-item-content">
+                                            <h2><span class="counter">14</span>%</h2>
+                                            <p>Yearly Growth Rate</p>
+                                        </div>
+                                    </div>
+                                    <!-- Marketing Counters Item End -->
+
+                                    <!-- Marketing Counters Item Start -->
+                                    <div class="marketing-counter-item">
+                                        <div class="icon-box">
+                                            <img src="images/icon-marketing-counter-3.svg" alt="">
+                                        </div>
+                                        <div class="marketing-counter-item-content">
+                                            <h2><span class="counter">18</span>+</h2>
+                                            <p>Years of experience</p>
+                                        </div>
+                                    </div>
+                                    <!-- Marketing Counters Item End -->
+                                </div>
+                                <!-- Marketing Counters List End -->
+                            </div>
+                            <!-- Project Marketing Box End -->
+                        </div>
+                        <!-- Project Entry End -->
+                            
+
+                        <!-- Page Single FAQs Start -->
+                        <div class="page-single-faqs">
+                            <!-- Section Title Start -->
+                            <div class="section-title">
+                                <h2 class="wow fadeInUp" data-cursor="-opaque">Frequently asked <span>question</span></h2>
+                            </div>
+                            <!-- Section Title End -->
+
+                            <!-- FAQ Accordion Start -->
+                            <div class="faq-accordion" id="accordion">
+                                <!-- FAQ Item Start -->
+                                <div class="accordion-item wow fadeInUp">
+                                    <h2 class="accordion-header" id="heading1">
+                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                                            1. What is digital marketing, & help my business?
+                                        </button>
+                                    </h2>
+                                    <div id="collapse1" class="accordion-collapse collapse show" aria-labelledby="heading1" data-bs-parent="#accordion">
+                                        <div class="accordion-body">
+                                            <p>We closely track key performance indicators (KPIs) such as website traffic, conversion rates, click-through rates (CTR), and return on investment (ROI) to evaluate campaign effectiveness..</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- FAQ Item End -->
+
+                                <!-- FAQ Item Start -->
+                                <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
+                                    <h2 class="accordion-header" id="heading2">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                                            2. How do you measure success in a campaign?
+                                        </button>
+                                    </h2>
+                                    <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" data-bs-parent="#accordion">
+                                        <div class="accordion-body">
+                                            <p>We closely track key performance indicators (KPIs) such as website traffic, conversion rates, click-through rates (CTR), and return on investment (ROI) to evaluate campaign effectiveness.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- FAQ Item End -->
+
+                                <!-- FAQ Item Start -->
+                                <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
+                                    <h2 class="accordion-header" id="heading3">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                                            3. Can you help with both SEO and paid ads?
+                                        </button>
+                                    </h2>
+                                    <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3" data-bs-parent="#accordion">
+                                        <div class="accordion-body">
+                                            <p>We closely track key performance indicators (KPIs) such as website traffic, conversion rates, click-through rates (CTR), and return on investment (ROI) to evaluate campaign effectiveness.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- FAQ Item End -->
+
+                                <!-- FAQ Item Start -->
+                                <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
+                                    <h2 class="accordion-header" id="heading4">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                                            4. Is there a contract or long-term commitment?
+                                        </button>
+                                    </h2>
+                                    <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-bs-parent="#accordion">
+                                        <div class="accordion-body">
+                                            <p>We closely track key performance indicators (KPIs) such as website traffic, conversion rates, click-through rates (CTR), and return on investment (ROI) to evaluate campaign effectiveness.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- FAQ Item End -->
+                            </div>
+                            <!-- FAQ Accordion End -->
+                        </div>
+                        <!-- Page Single FAQs End -->
+                    </div>
+                    <!-- Project Single Content End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Page Project Single End -->
+
+    <!-- Footer Start -->
+    <footer class="main-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <!-- Footer Header Start -->
+                    <div class="footer-header">
+                        <!-- Footer Logo Start -->
+                        <div class="footer-logo">
+                            <img src="images/footer-logo.svg" alt="">
+                        </div>
+                        <!-- Footer Logo End -->
+    
+                        <!-- Footer Contact Details Start -->
+                        <div class="footer-contact-details">
+                            <!-- Footer Contact Item Start -->
+                            <div class="footer-contact-item">
+                                <div class="icon-box">
+                                    <img src="images/icon-headset-gradiant.svg" alt="">
+                                </div>
+                                <div class="footer-contact-item-content">
+                                    <p><a href="tel:+123456789">+(123) 456 789</a></p>
+                                    <p><a href="mailto:support@example.com">support@example.com</a></p>
+                                </div>
+                            </div>
+                            <!-- Footer Contact Item End -->
+
+                            <!-- Footer Contact Item Start -->
+                            <div class="footer-contact-item">
+                                <div class="icon-box">
+                                    <img src="images/icon-location-gradiant.svg" alt="">
+                                </div>
+                                <div class="footer-contact-item-content">
+                                    <p>123 - Ipsum Street London WC1A 1AA UK</p>
+                                </div>
+                            </div>
+                            <!-- Footer Contact Item End -->
+                        </div>
+                        <!-- Footer Contact Details End -->
+                    </div>
+                    <!-- Footer Header End -->
+                </div>
+                    
+                <div class="col-lg-4">
+                    <!-- Footer Newsletter Box Start -->
+                    <div class="footer-newsletter-box">
+                        <h3>Subscribe Newsletter's</h3>
+                        <!-- Footer Newsletter Form Start -->
+                        <div class="footer-newsletter-form">
+                            <form id="newslettersForm" action="#" method="POST">
+                                <div class="form-group">
+                                    <input type="email" name="mail" class="form-control"  id="mail" placeholder="E-mail Address" required>
+                                    <button type="submit" class="btn-default">Subscribe</button>
+                                </div>
+                            </form>
+                        </div>
+                        <!-- Footer Newsletter Box End -->                        
+                        <p>* Stay updated with the latest SEO tips trends, & insights-straight to your inbox.</p>
+                    </div>
+                    <!-- Footer Links End -->
+                </div>
+
+                <div class="col-lg-8">
+                    <!-- Footer Links Box Start -->
+                    <div class="footer-links-box">
+                        <!-- Footer Links Start -->
+                        <div class="footer-links">
+                            <h3>quick links</h3>
+                            <ul>
+                                <li><a href="index.html">Home</a></li>
+                                <li><a href="about.html">About us</a></li>
+                                <li><a href="services.html">Services</a></li>
+                                <li><a href="blog.html">blog</a></li>
+                            </ul>
+                        </div>
+                        <!-- Footer Links End -->
+    
+                        <!-- Footer Links Start -->
+                        <div class="footer-links">
+                            <h3>Services</h3>
+                            <ul>
+                                <li><a href="service-single.html">Keyword Research</a></li>
+                                <li><a href="service-single.html">SEO Copywriting</a></li>
+                                <li><a href="service-single.html">Content Marketing</a></li>
+                                <li><a href="service-single.html">Technical SEO Audits</a></li>
+                            </ul>
+                        </div>
+                        <!-- Footer Links End -->
+        
+                        <!-- Footer Links Start -->
+                        <div class="footer-links">
+                            <h3>Support</h3>
+                            <ul>
+                                <li><a href="#">Help</a></li>
+                                <li><a href="#">Term's & Conditions</a></li>
+                                <li><a href="#">Privacy Policy</a></li>
+                                <li><a href="contact.html">Contact us</a></li>
+                            </ul>
+                        </div>
+                        <!-- Footer Links End -->
+                    </div>
+                    <!-- Footer Links Box End -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer Copyright Start -->
+        <div class="footer-copyright">
+            <div class="container">
+                <div class="col-lg-12">
+                    <!-- Footer Copyright Text Start -->
+                    <div class="footer-copyright-text">
+                        <p>Copyright © 2025 All Rights Reserved.</p>
+                    </div>
+                    <!-- Footer Copyright Text End -->
+                </div>
+            </div>
+        </div>
+        <!-- Footer Copyright End -->
+    </footer>
+    <!-- Footer End -->
+
+    <!-- Jquery Library File -->
+    <script src="js/jquery-3.7.1.min.js"></script>
+    <!-- Bootstrap js file -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Validator js file -->
+    <script src="js/validator.min.js"></script>
+    <!-- SlickNav js file -->
+    <script src="js/jquery.slicknav.js"></script>
+    <!-- Swiper js file -->
+    <script src="js/swiper-bundle.min.js"></script>
+    <!-- Counter js file -->
+    <script src="js/jquery.waypoints.min.js"></script>
+    <script src="js/jquery.counterup.min.js"></script>
+    <!-- Magnific js file -->
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <!-- SmoothScroll -->
+    <script src="js/SmoothScroll.js"></script>
+    <!-- Parallax js -->
+    <script src="js/parallaxie.js"></script>
+    <!-- MagicCursor js file -->
+    <script src="js/gsap.min.js"></script>
+    <script src="js/magiccursor.js"></script>
+    <!-- Text Effect js file -->
+    <script src="js/SplitText.js"></script>
+    <script src="js/ScrollTrigger.min.js"></script>
+    <!-- YTPlayer js File -->
+    <script src="js/jquery.mb.YTPlayer.min.js"></script>
+    <!-- Wow js file -->
+    <script src="js/wow.min.js"></script>
+    <!-- Main Custom js file -->
+    <script src="js/function.js"></script>
+</body>
+
+<!-- Mirrored from html.awaikenthemes.com/rankio/digital-marketing/project-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 12 Nov 2025 05:36:25 GMT -->
+</html>
